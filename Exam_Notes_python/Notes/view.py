@@ -1,6 +1,17 @@
 from tkinter import *
 import data_note as dn
+import logger as lg
 import datetime
+
+# --------------------------------------------------------------------
+logger = lg.get_logger(__name__)
+
+def process(msg):
+    logger.info("Перед процессом")
+    print(msg)
+    logger.info("После процесса")
+# ---------------------------------------------------------------------
+
 
 path_csv = 'Exam_Notes_python/Notes/note_file.csv'
 date = str(datetime.datetime.now().ctime())
