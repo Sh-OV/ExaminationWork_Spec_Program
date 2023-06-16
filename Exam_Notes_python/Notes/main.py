@@ -1,4 +1,4 @@
-#import controller as cr 
+#import view as cr 
 import logger as lg
 
 logger = lg.get_logger(__name__)
