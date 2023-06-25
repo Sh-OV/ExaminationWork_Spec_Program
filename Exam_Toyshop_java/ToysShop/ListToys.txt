@@ -1,0 +1,9 @@
+id = 000637; name = Мишка; count_toy = 1; weight = 4
+id = 000997; name = Обезьяна; count_toy = 2; weight = 1
+id = 000492; name = Машинка1; count_toy = 1; weight = 6
+id = 000652; name = Паровоз; count_toy = 2; weight = 2
+id = 000432; name = Стрекоза; count_toy = 2; weight = 8
+id = 000796; name = маска; count_toy = 2; weight = 8
+id = 000176; name = кукла_Маша; count_toy = 1; weight = 3
+id = 000215; name = Машинка; count_toy = 2; weight = 3
+id = 000945; name = Паровоз; count_toy = 2; weight = 2

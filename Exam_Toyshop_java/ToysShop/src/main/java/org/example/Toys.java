@@ -66,7 +66,7 @@ public class Toys {
     }
 
     private static int lunges(){
-        List<Integer> lungesList = Arrays.asList(10, 20, 30, 40, 50, 60, 70);
+        List<Integer> lungesList = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8);
         Random rand = new Random();
         return lungesList.get(rand.nextInt(lungesList.size()));
     }
